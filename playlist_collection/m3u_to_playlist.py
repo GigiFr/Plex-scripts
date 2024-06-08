@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #-*- coding: utf-8 -*-
-
+#Plex_api_token is under "HKEY_CURRENT_USER\Software\Plex, Inc.\Plex Media Server\PlexOnlineToken"
 """
 The use case of this script is the following:
 	Convert a .m3u file to a plex playlist
